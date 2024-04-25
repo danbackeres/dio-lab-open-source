@@ -19,7 +19,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Html-FF5733?style=for-the-badge&logo=html5" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-E9B300?style=for-the-badge&logo=git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python" /></a>  
